@@ -14,7 +14,7 @@ run irb
     it can understand a few data types(string, integers, arrays, Hash)
     what can't it understand?
 run a ruby program
-Just do a little with ruby. 
+  fork the ruby program, add an expectations key to the neighbors hashes.
 
 
 HW 1:
