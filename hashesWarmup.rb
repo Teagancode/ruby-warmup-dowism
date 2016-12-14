@@ -1,3 +1,15 @@
+training_eachday=Hash.new
+training_eachday["monday"]=["Nothing, school all day."]
+training_eachday["tuesday"]=["Alpine ski in the morning, recovery(upperbody) workout."]
+training_eachday["wednesday"]=["Alpine ski in the morning, lift."]
+training_eachday["thursday"]=["Alpine ski in the morning, recovery workout."]
+training_eachday["friday"]=["Ski after school."]
+training_eachday["saturday"]=["Alpine train all day."]
+training_eachday["sunday"]=["Alpine train all day."]
+
+
+
+
 =begin
 This warmup is for use after introToHashes.rb
 
